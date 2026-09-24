@@ -1,8 +1,13 @@
 #+title: 中小學AI探索者南區社群-第一次共學
-#+SUBTITLE: 教育部中小學推廣教育計畫
+#+AUTHOR: 顏永進
+#+SUBTITLE: 教育部中小學推廣教育計畫 / 顏永進
 #+OPTIONS: toc:2 num:t
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/letranger/css@main/muse.css" />
 #+HTML_HEAD_EXTRA: <script src="https://cdn.jsdelivr.net/gh/letranger/css@main/copy_code.js"></script>
+#+begin_export html
+<a href="https://hits.sh/letranger.github.io/working/2026-05-21中小學AI探索者社群/index.html/"><img align="right" alt="Hits" src="https://hits.sh/letranger.github.io/working/2026-05-21中小學AI探索者社群/index.html.svg"/></a>
+#+end_export
+
 
 * 2026/05/21 第一次共學
 ** 參與成員
@@ -21,7 +26,14 @@
 
 ** 共學簡報下載
 - [[file:從閒聊到動手.pptx][從閒聊到動手.pptx]]
-
+** 討論內容
+1. 去年成員(楊松𨌺老師、湯云瑋老師)參加心得分享
+2. 成員平日應用AI於教學模式經驗
+3. 成員需要的研習主題、推薦之講師：暫定邀請成大教授、董怡君老師(分享AI應用於多媒體的教學模式)、李國源老師(分享Vibe Coding)、顏永進老師(分享龍蝦養殖實務)
+4. 成員方便的研習時段
+5. 張峰燕老師分享AI應用於商業經經營的模式
+6. 顏永進老師分享AI代理人的現況及基本原理
+   
 * 說帖
 
 - 社群名稱: 中小學AI探索者（高中組・南區）
